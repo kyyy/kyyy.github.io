@@ -491,15 +491,15 @@ section.about#content .section-content ul.press-list {
 section.about#content .section-content h2 {
     font-family: "Roboto Mono", "Helvetica Neue", "Lucida Grande", sans-serif;
     color: #000000;
-    font-style: italic;
     font-weight: 400;
     text-transform: uppercase;
+    text-decoration: underline;
     margin: 1em 0;
 }
 
 section.about#content .section-content h3 {
     color: inherit;
-    font-weight: 400;
+    font-weight: 700;
 }
 
 
