@@ -5,6 +5,7 @@
     vertical-align: baseline;
 }
 
+
 /** Ultra Light */
 @font-face {
   font-family: "sfui";
@@ -58,7 +59,7 @@ html {
 }
 
 body {
-    font-family: sfui, "Helvetica Neue", "Lucida Grande", sans-serif;
+    font-family: "Roboto Mono", "Helvetica Neue", "Lucida Grande", sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 1em;
     font-weight: 400;
