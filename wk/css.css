@@ -94,8 +94,6 @@ header.site-header {
 header.site-header .header-inner {
     display: -webkit-flex;
     display: flex;
-    bottom: 7%;
-
     -webkit-flex-direction: row;
     flex-direction: row;
     -webkit-align-items: center;
