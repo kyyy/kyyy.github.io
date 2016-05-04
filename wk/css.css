@@ -18,7 +18,7 @@ html {
 }
 
 body {
-    font-family: "Roboto Mono", "Helvetica Neue", "Lucida Grande", sans-serif;
+    font-family: "Roboto", "Helvetica Neue", "Lucida Grande", sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 1em;
     font-weight: 400;
@@ -28,6 +28,7 @@ body {
 }
 
 h1,h2,h3,h4 {
+    font-family: "Roboto Mono", "Helvetica Neue", "Lucida Grande", sans-serif;
     font-size: 1em;
     font-weight: 200;
     color: white;
