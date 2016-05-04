@@ -499,6 +499,7 @@ section.about#content .section-content h2 {
 
 section.about#content .section-content h3 {
     color: inherit;
+    text-transform: uppercase;
     font-weight: 400;
 }
 
