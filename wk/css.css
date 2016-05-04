@@ -446,7 +446,7 @@ section.about#content .section-content {
     margin: 5% auto 10%;
     line-height: 1.7;
     color: #00a99d;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 @media screen and (max-width: 768px) {
