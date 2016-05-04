@@ -100,7 +100,7 @@ header.site-header a.title,header.site-header nav {
 }
 
 header.site-header a.title h1 {
-    background-image: url(../images/title@2x-1a1da1a9.png);
+    background-image: url(../img/back.png);
     background-position: 0% center;
     background-repeat: no-repeat;
     width: 200px;
@@ -446,7 +446,7 @@ section.about#content .section-content {
     margin: 5% auto 10%;
     line-height: 1.7;
     color: #00a99d;
-    font-size: 1.2em;
+    font-size: 1.15em;
 }
 
 @media screen and (max-width: 768px) {
