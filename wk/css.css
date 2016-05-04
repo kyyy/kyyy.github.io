@@ -340,7 +340,7 @@ section#intro h2 {
 
 .section-footer h2 {
     font-size: 60px;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 1em;
 }
 
@@ -486,7 +486,7 @@ section.about#content .section-content h2 {
 
 section.about#content .section-content h3 {
     color: inherit;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .video-overlay {
