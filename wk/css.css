@@ -444,6 +444,7 @@ section.about#content .section-content {
     padding: 0 5vw;
     max-width: 688px;
     padding-top: 15vh;
+    padding-bottom: 15vh;
     margin: 5% auto 10%;
     line-height: 1.7;
     color: #000000;
@@ -457,11 +458,11 @@ section.about#content .section-content {
 }
 
 section.about#content .section-content a {
-    color: #befffa;
+    color: #3F51B5;
 }
 
 section.about#content .section-content a:hover {
-    color: #fff;
+    color: #111111;
 }
 
 section.about#content .section-content p,section.about#content .section-content ul {
