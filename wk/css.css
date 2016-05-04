@@ -68,6 +68,13 @@ a:not(.active):hover {
     color: rgba(255,255,255,0.75);
 }
 
+*::-moz-selection {
+    background-color: #F44336; color: rgba(255,255,255,0.8);
+}
+*::selection {
+    background-color: #F44336; color: rgba(255,255,255,0.8);
+}
+
 header.site-header {
     position: fixed;
     top: 2.5%;
@@ -458,7 +465,7 @@ section.about#content .section-content {
 }
 
 section.about#content .section-content a {
-    color: #3F51B5;
+    color: #F44336;
 }
 
 section.about#content .section-content a:hover {
