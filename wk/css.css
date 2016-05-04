@@ -103,6 +103,8 @@ header.site-header .header-inner {
 }
 
 header.site-header a.title,header.site-header nav {
+    top: 5%;
+
     flex-basis: 40%;
 }
 
