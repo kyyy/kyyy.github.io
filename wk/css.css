@@ -500,6 +500,7 @@ section.about#content .section-content h2 {
 
 section.about#content .section-content h3 {
     color: inherit;
+    font-size: 1em;
     font-family: "Roboto Mono", "Helvetica Neue", "Lucida Grande", sans-serif;
     text-transform: uppercase;
     font-weight: 400;
