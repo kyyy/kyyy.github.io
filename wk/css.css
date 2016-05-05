@@ -76,8 +76,8 @@ a:not(.active):hover {
 }
 
 header.site-header {
-    font-weight: 500;
-    font-size: 1.15em;
+    font-weight: 400;
+    font-size: 1.1em;
     position: fixed;
     top: 5%;
     right: 5%;
