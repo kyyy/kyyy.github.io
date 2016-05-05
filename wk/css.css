@@ -330,6 +330,7 @@ section#intro h2 {
 }
 
 .section-footer a h2::after {
+    font-style: italic;
     opacity: 0;
     -moz-transition: opacity, 200ms, linear 1s;
     -o-transition: opacity, 200ms, linear 1s;
