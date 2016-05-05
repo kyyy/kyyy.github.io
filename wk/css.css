@@ -14,7 +14,7 @@ html,body {
 }
 
 html {
-    font-size: 21px;
+    font-size: 1em;
 }
 
 body {
@@ -453,8 +453,8 @@ section.about#content .section-content {
     padding-bottom: 15vh;
     margin: 5% auto 10%;
     line-height: 1.7;
-    color: rgba(255,255,255,0.8);
-    font-size: 1.15em;
+    color: rgba(0,0,0,0.8);
+    font-size: 1em;
 }
 
 @media screen and (max-width: 768px) {
