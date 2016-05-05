@@ -453,7 +453,7 @@ section.about#content .section-content {
     padding-bottom: 15vh;
     margin: 5% auto 10%;
     line-height: 1.7;
-    color: #000000;
+    color: rgba(255,255,255,0.8);
     font-size: 1.15em;
 }
 
