@@ -491,7 +491,7 @@ section.about#content .section-content ul.press-list {
 
 section.about#content .section-content h2 {
     font-family: "Roboto Mono", "Helvetica Neue", "Lucida Grande", sans-serif;
-    color: #000000;
+    color: rgba(0,0,0,0.8);
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
