@@ -14,7 +14,7 @@ html,body {
 }
 
 html {
-    font-size: 1em;
+    font-size: 1.15em;
 }
 
 body {
@@ -347,7 +347,7 @@ section#intro h2 {
 .section-footer h2 {
     font-size: 60px;
     font-weight: 400;
-    line-height: 1.1em;
+    line-height: 1em;
 }
 
 @media screen and (max-width: 768px) {
@@ -454,7 +454,7 @@ section.about#content .section-content {
     margin: 5% auto 10%;
     line-height: 1.7;
     color: rgba(0,0,0,0.8);
-    font-size: 1em;
+    font-size: 1.15em;
 }
 
 @media screen and (max-width: 768px) {
