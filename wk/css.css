@@ -20,7 +20,7 @@ html {
 body {
     font-family: "Roboto Mono", "Helvetica Neue", "Lucida Grande", sans-serif;
     -webkit-font-smoothing: antialiased;
-    font-size: 1em;
+    font-size: 1.15em;
     letter-spacing: 0.25px;
     font-weight: 400;
     color: rgba(255,255,255,0.5);
