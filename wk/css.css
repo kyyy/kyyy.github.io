@@ -330,7 +330,6 @@ section#intro h2 {
 }
 
 .section-footer a h2::after {
-    content: "→";
     opacity: 0;
     -moz-transition: opacity, 200ms, linear 1s;
     -o-transition: opacity, 200ms, linear 1s;
