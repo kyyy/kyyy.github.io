@@ -345,8 +345,9 @@ section#intro h2 {
 }
 
 .section-footer h2 {
-    font-size: 2em;
-    font-weight: 400;
+    font-size: 60px;
+    line-height: 1em;
+    font-weight: 600;
 }
 
 @media screen and (max-width: 768px) {
