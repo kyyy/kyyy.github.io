@@ -330,7 +330,6 @@ section#intro h2 {
 }
 
 .section-footer a h2::after {
-    font-style: italic;
     opacity: 0;
     -moz-transition: opacity, 200ms, linear 1s;
     -o-transition: opacity, 200ms, linear 1s;
@@ -407,7 +406,7 @@ section#intro h2 {
 
     .section-footer p .link {
         color: rgba(255,255,255,0.4);
-        font-size: 16px;
+        font-size: 24px;
     }
 }
 
